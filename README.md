@@ -6,7 +6,6 @@ The mission is simple: keep jumping! ⭐
 Hop your way across floating platforms that constantly move downward.
 Stay alert — if you miss a jump or ride a platform off-screen… it’s Game Over! 💀
 
-🎮 Gameplay Features
 
 🧍 Player movement with smooth jump physics
 
